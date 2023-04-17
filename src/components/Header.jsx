@@ -28,6 +28,11 @@ const Header = () => {
               Корзина
               </Link>
               </Nav.Link>
+              <Nav.Link>
+              <Link to={'/description'}>
+              Описание
+              </Link>
+              </Nav.Link>
           </Nav>
           <Nav>
             <Button variant="primary">

@@ -55,13 +55,31 @@ a:hover{
   color: white;
 }
 
-#input-form{
-  margin: 0 50px;
-  clear: both;
+
+#div1{
+  font-size: 50px;
+  width: 30%;
+  margin: 0 auto;
 }
-#form h1{
+
+
+#divImg{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+#div2{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 30px 0 100px 0;
+}
+#text{
+  font-size: 50px;
+}
+#text2{
+  font-size: 36px;
+  color: red;
   text-align: center;
 }
-#btn-submit{
-  margin-left: 50px;
-}
+
